@@ -88,3 +88,11 @@ context. Runtime packages are declared in `requirements.txt`.
 
 See [API_DOCUMENTATION.md](API_DOCUMENTATION.md) for detailed setup, endpoint,
 error-handling, and deployment information.
+
+
+<img width="1372" height="862" alt="image" src="https://github.com/user-attachments/assets/5ab8822e-891d-498b-9fb1-0c7868b686b6" />
+
+RESULT
+
+<img width="588" height="237" alt="image" src="https://github.com/user-attachments/assets/9de1f05a-a5ac-4438-bcf8-9757e4bb9005" />
+
