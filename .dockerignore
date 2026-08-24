@@ -1,0 +1,14 @@
+# Local virtual environments and Python build artifacts
+env/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor, version-control, and local configuration files
+.vscode/
+.git/
+.env
+
+# Documentation is not required by the runtime container.
+README.md
+API_DOCUMENTATION.md
